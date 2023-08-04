@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amrit Karn
+# 👋 Hi, I'm Amrit Karn Raj
 
 ## 👀 About Me
 I am a Data Specialist with a passion for turning raw data into valuable insights. My expertise lies in data analysis, data visualization, and business intelligence. Currently, I work at Futurense Technologies, where I am upskilling myself with various data-related skills, including Python for Data, SQL, Big Data, and Cloud technologies.
@@ -16,7 +16,13 @@ I am continuously learning and exploring new technologies in the data space to s
 - High School from International Public School Ranchi 🎓 (2015 - 2017)
 - AISSC from DAV Co-Op Senior Secondary School Khalari 🎓 (2015)
 
-## 🔧 Skills
+## 📚 Licenses & Certifications
+- Data Analysis and Visualization Foundations Specialization by Coursera 📜 (Issued Apr 2023)
+- Microsoft Certified: Azure Data Fundamentals by Microsoft 📜 (Issued Feb 2023)
+- Microsoft Certified: Azure Fundamentals by Microsoft 📜 (Issued Jun 2022)
+- Hands On Essentials - Data Warehouse by Snowflake 📜 (Issued May 2022)
+
+## 🛠️ Skills
 - Business Intelligence (BI) 
 - Agile Methodologies 
 - Data Visualization 
@@ -41,11 +47,8 @@ I am continuously learning and exploring new technologies in the data space to s
 - Adobe Analytics 
 - Microsoft Excel
 - Amazon Web Services (AWS)
+- Azure
 - Extract, Transform, Load (ETL)
-- Python for Data
-- SQL
-- Big Data
-- Cloud Technologies
 
 ## 📫 Contact Me
-You can reach me via email at [amritrk@futurensetech.com](mailto:amritrk@futurensetech.com)
+You can reach me via email at amritrk@futurensetech.com
